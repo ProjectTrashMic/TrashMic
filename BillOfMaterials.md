@@ -13,7 +13,7 @@ RFID Chips:                      https://www.aliexpress.us/item/3256801639975303
 2N2222 Transistors:              https://www.aliexpress.us/item/3256803197720047.html?spm=a2g0o.order_list.order_list_main.60.14641802pCh3m0&gatewayAdapt=glo2usa
 Resistors (Select 10k and 200R): https://www.aliexpress.us/item/3256802310109990.html?spm=a2g0o.order_list.order_list_main.45.14641802pCh3m0&gatewayAdapt=glo2usa 
 Battery Pack:                    https://www.fivebelow.com/products/printed-5000mah-slim-power-bank-charger_2
-LED:                     https://www.aliexpress.us/item/3256804781384334.html?spm=a2g0o.order_list.order_list_main.35.14641802pCh3m0&gatewayAdapt=glo2usa
+LED:                             https://www.aliexpress.us/item/3256804781384334.html?spm=a2g0o.order_list.order_list_main.35.14641802pCh3m0&gatewayAdapt=glo2usa
 SD card (>10mb):                 https://a.co/d/e8dqedh                      
 Switches:                        https://www.ebay.com/itm/303843048755
 Rubber Feet:                     https://a.co/d/iqW4CcC
