@@ -1,4 +1,4 @@
-# TrashMic
+# TrashMic (View in Code Mode)
 Here are some links of what I ordered for the project
 
 3D filament
